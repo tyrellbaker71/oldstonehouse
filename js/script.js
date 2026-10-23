@@ -67,8 +67,8 @@ const CONFIG = {
     nguni:    { src: "images/accommodation/nguni1.jpg", alt: "Nguni Luxury Lodge" },
     southern: { src: "images/accommodation/southern1.jpg", alt: "Southern Cottage" },
     stone:    { src: "images/accommodation/stonecottage1.jpg", alt: "Stone Cottage" },
-    lapa:     { src: "images/facilities/hottub.jpg", alt: "The communal lapa and entertainment area" },
-    pool:     { src: "images/facilities/pool.jpg", alt: "The swimming pool" }
+    lapa:     { src: "images/facilities/hottub.JPG", alt: "The communal lapa and entertainment area" },
+    pool:     { src: "images/facilities/pool.JPG", alt: "The swimming pool" }
   },
 
   /* Team photographs: portrait photos work best (about 800 x 1000px).
@@ -118,8 +118,8 @@ const CONFIG = {
         { src: "images/accommodation/stonecottage4.jpeg", alt: "Stone cottage 4" },
     ],
     "Communal Facilities": [
-      { src: "images/facilities/pool.jpg", alt: "pool" },
-      { src: "images/facilities/hottub.jpg", alt: "hot tub"}
+      { src: "images/facilities/pool.JPG", alt: "pool" },
+      { src: "images/facilities/hottub.JPG", alt: "hot tub"}
      ]
   },
 
