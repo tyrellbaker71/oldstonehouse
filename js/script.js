@@ -75,7 +75,7 @@ const CONFIG = {
      Put files in images/team/ and enter the path in `src`. Empty = placeholder. */
   staff: [
     { name: "Angelique Enslin and Jannes du Plessis", role: "Your hosts", src: "images/team/host.jpg", alt: "Angelique Enslin and Jannes du Plessis, the hosts" },
-    { name: "Sinikiwe Mkhulisi", role: "Cleaning staff", src: "images/team/cleaner.jpg", alt: "Sinikiwe Mkhulisi, cleaning staff" },
+    { name: "Sinikiwe Mkhulisi", role: "House keeping", src: "images/team/cleaner.jpg", alt: "Sinikiwe Mkhulisi, cleaning staff" },
     { name: "Moses Lungu", role: "Maintenance and gardener", src: "images/team/gardener.jpg", alt: "Moses Lungu, maintenance and gardener" }
   ],
 
@@ -119,7 +119,6 @@ const CONFIG = {
     ],
     "Communal Facilities": [
       { src: "images/facilities/pool.JPG", alt: "pool" },
-      { src: "images/facilities/hottub.JPG", alt: "hot tub"}
      ]
   },
 
