@@ -54,9 +54,9 @@ const CONFIG = {
      controls are shown; with two or more, the slider starts automatically.
      Autoplay is off for visitors who prefer reduced motion. */
   heroSlides: [
-    { src: "images/hero/01.jpg", alt: "hero1" },
-    { src: "images/hero/02.jpg", alt: "hero2" },
-    { src: "images/hero/03.jpg", alt: "hero3" }
+    { src: "images/hero/01.JPG", alt: "hero1" },
+    { src: "images/hero/02.JPG", alt: "hero2" },
+    { src: "images/hero/03.JPG", alt: "hero3" }
   ],
   heroInterval: 6000, /* milliseconds per slide */
 
