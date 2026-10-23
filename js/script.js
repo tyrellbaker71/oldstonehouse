@@ -16,9 +16,9 @@ const CONFIG = {
   /* Booking platform listing URLs. Leave "" until supplied; the button
      switches on automatically once a full https:// URL is added. */
   bookingLinks: {
-    bookingCom: "",
-    lekkerSlaap: "",
-    airbnb: ""
+    bookingCom: "https://www.booking.com/Share-ozJnhyo",
+    lekkerSlaap: "https://www.lekkeslaap.co.za/akkommodasie/the-old-stone-house-91",
+    airbnb: "https://www.airbnb.co.uk/rooms/1795618180566762064"
   },
 
   /* Social media URLs. Leave "" until supplied. */
@@ -64,9 +64,9 @@ const CONFIG = {
      "images/accommodation/nguni-lodge.jpg". Empty = labelled placeholder.
      Always give a short, accurate description in `alt`. */
   images: {
-    nguni:    { src: "/images/accommodation/nguni1.jpg", alt: "Nguni Luxury Lodge" },
-    southern: { src: "/images/accommodation/southern1.jpg", alt: "Southern Cottage" },
-    stone:    { src: "/images/accommodation/stonecottage1.jpg", alt: "Stone Cottage" },
+    nguni:    { src: "images/accommodation/nguni1.jpg", alt: "Nguni Luxury Lodge" },
+    southern: { src: "images/accommodation/southern1.jpg", alt: "Southern Cottage" },
+    stone:    { src: "images/accommodation/stonecottage1.jpg", alt: "Stone Cottage" },
     lapa:     { src: "images/facilities/hottub.jpg", alt: "The communal lapa and entertainment area" },
     pool:     { src: "images/facilities/pool.jpg", alt: "The swimming pool" }
   },
@@ -94,31 +94,31 @@ const CONFIG = {
      to any list. Empty lists show placeholder tiles. */
   gallery: {
     "Nguni Luxury Lodge": [
-      { src: "/images/accommodation/nguni1.jpg", alt: "nguni 1" },
-      { src: "/images/accommodation/nguni2.jpg", alt: "nguni 2" },
-      { src: "/images/accommodation/nguni3.jpg", alt: "nguni 3" },
-      { src: "/images/accommodation/nguni4.jpg", alt: "nguni 4" },
-      { src: "/images/accommodation/nguni5.jpg", alt: "nguni 5" },
-      { src: "/images/accommodation/nguni6.jpg", alt: "nguni 6" },
-      { src: "/images/accommodation/nguni7.jpg", alt: "nguni 7" },
+      { src: "images/accommodation/nguni1.jpg", alt: "nguni 1" },
+      { src: "images/accommodation/nguni2.jpg", alt: "nguni 2" },
+      { src: "images/accommodation/nguni3.jpg", alt: "nguni 3" },
+      { src: "images/accommodation/nguni4.jpg", alt: "nguni 4" },
+      { src: "images/accommodation/nguni5.jpg", alt: "nguni 5" },
+      { src: "images/accommodation/nguni6.jpg", alt: "nguni 6" },
+      { src: "images/accommodation/nguni7.jpg", alt: "nguni 7" },
     ],
     "Southern Cottage": [
-      { src: "/images/accommodation/southern1.jpg", alt: "southern 1" },
-      { src: "/images/accommodation/southern2.jpg", alt: "southern 2" },
-      { src: "/images/accommodation/southern3.jpg", alt: "southern 3" },
-      { src: "/images/accommodation/southern4.jpg", alt: "southern 4" },
-      { src: "/images/accommodation/southern5.jpg", alt: "southern 5" },
-      { src: "/images/accommodation/southern6.jpg", alt: "southern 6" },
+      { src: "images/accommodation/southern1.jpg", alt: "southern 1" },
+      { src: "images/accommodation/southern2.jpg", alt: "southern 2" },
+      { src: "images/accommodation/southern3.jpg", alt: "southern 3" },
+      { src: "images/accommodation/southern4.jpg", alt: "southern 4" },
+      { src: "images/accommodation/southern5.jpg", alt: "southern 5" },
+      { src: "images/accommodation/southern6.jpg", alt: "southern 6" },
 
     ],
     "Stone Cottage": [
-      { src: "/images/accommodation/stonecottage1.jpg", alt: "Stone cottage 1" },
-        { src: "/images/accommodation/stonecottage2.jpg", alt: "Stone cottage 2" },
-        { src: "/images/accommodation/stonecottage3.jpg", alt: "Stone cottage 3" },
-        { src: "/images/accommodation/stonecottage4.jpeg", alt: "Stone cottage 4" },
+      { src: "images/accommodation/stonecottage1.jpg", alt: "Stone cottage 1" },
+        { src: "images/accommodation/stonecottage2.jpg", alt: "Stone cottage 2" },
+        { src: "images/accommodation/stonecottage3.jpg", alt: "Stone cottage 3" },
+        { src: "images/accommodation/stonecottage4.jpeg", alt: "Stone cottage 4" },
     ],
     "Communal Facilities": [
-      { src: "/images/facilities/pool.jpg", alt: "pool" },
+      { src: "images/facilities/pool.jpg", alt: "pool" },
       { src: "images/facilities/hottub.jpg", alt: "hot tub"}
      ]
   },
